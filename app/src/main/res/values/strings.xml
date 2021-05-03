@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="feels_like">"Feels like: %s"</string>
+    <string name="temp">"%s"</string>
+    <string name="last_updated">"Last update: %s"</string>
+    <string name="unknown">-</string>
+    <string name="condition">%s</string>
+    <string name="api_key">OpenWeather API key</string>
+    <string name="save">Save</string>
+    <string name="units">Units</string>
+    <string name="celsius">Metric (°C, km)</string>
+    <string name="fahrenheit">Imperial (°F, mi)</string>
+    <string name="kelvin">Standard (K, km)</string>
+    <string name="city">city</string>
+    <string name="state">state</string>
+    <string name="country">country</string>
+    <string name="location">Location</string>
+    <string name="txt_location">%s</string>
+    <string name="selected_time">%s</string>
+    <string name="delete_after">Delete weather data after:</string>
+    <string name="humidity">Humidity: %s</string>
+    <string name="cloud_cover">Cloud cover: %s</string>
+    <string name="visibility">Visibility: %s</string>
+    <string name="version">1</string>
+    <string name="txt_info">
+        "Version: %s\n\nThis unnamed weather app uses the OpenWeather API (https://openweathermap.org/) to fetch current weather data. It logs and displays saved past weather data.\n\nIt was created by Andrew Rast for his final project for Intro to Mobile App Development at Lansing Community College."
+    </string>
+    <string name="back">Go Back</string>
+    <string-array name="delete_after_choices">
+        <item>1 day</item>
+        <item>1 week</item>
+        <item>1 month</item>
+        <item>1 year</item>
+        <item>never</item>
+    </string-array>
+</resources>
